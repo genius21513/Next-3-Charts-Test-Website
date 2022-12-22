@@ -1,10 +1,11 @@
 {
-  "name": "unique-metakey-holders",
+  "name": "3-charts",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Alex Wang",
-    "email": "devstar0718@gmail.com"},
+    "name": "Genius",
+    "email": "genius21531@gmail.com"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
